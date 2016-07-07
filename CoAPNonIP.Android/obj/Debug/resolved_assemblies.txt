@@ -1,0 +1,9 @@
+D:\WorkPlace\CoAPNonIP_RoundTrip\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\assemblies\CoAPNonIP.Android.dll
+D:\WorkPlace\CoAPNonIP_RoundTrip\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\assemblies\Mono.Android.dll
+D:\WorkPlace\CoAPNonIP_RoundTrip\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\assemblies\mscorlib.dll
+D:\WorkPlace\CoAPNonIP_RoundTrip\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\assemblies\Newtonsoft.Json.dll
+D:\WorkPlace\CoAPNonIP_RoundTrip\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\assemblies\System.Core.dll
+D:\WorkPlace\CoAPNonIP_RoundTrip\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\assemblies\System.dll
+D:\WorkPlace\CoAPNonIP_RoundTrip\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\assemblies\System.Xml.dll
+D:\WorkPlace\CoAPNonIP_RoundTrip\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\assemblies\System.Runtime.Serialization.dll
+D:\WorkPlace\CoAPNonIP_RoundTrip\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\assemblies\System.ServiceModel.Internals.dll

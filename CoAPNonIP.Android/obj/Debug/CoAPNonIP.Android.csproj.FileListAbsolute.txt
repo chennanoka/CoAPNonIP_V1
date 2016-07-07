@@ -1,0 +1,137 @@
+C:\Users\NN\Desktop\CoAPNonIP\CoAPNonIP\CoAPNonIP\CoAPNonIP.Android\obj\Debug\CoAPNonIP.Android.csprojResolveAssemblyReference.cache
+C:\Users\NN\Desktop\CoAPNonIP\CoAPNonIP\CoAPNonIP\CoAPNonIP.Android\bin\Debug\CoAPNonIP.Android.dll
+C:\Users\NN\Desktop\CoAPNonIP\CoAPNonIP\CoAPNonIP\CoAPNonIP.Android\bin\Debug\CoAPNonIP.Android.pdb
+C:\Users\NN\Desktop\CoAPNonIP\CoAPNonIP\CoAPNonIP\CoAPNonIP.Android\bin\Debug\CoAPNonIP.Android.dll.mdb
+C:\Users\NN\Desktop\CoAPNonIP\CoAPNonIP\CoAPNonIP\CoAPNonIP.Android\bin\Debug\com.coapnonip.android.apk
+C:\Users\NN\Desktop\CoAPNonIP\CoAPNonIP\CoAPNonIP\CoAPNonIP.Android\bin\Debug\com.coapnonip.android-Signed.apk
+C:\Users\NN\Desktop\CoAPNonIP\CoAPNonIP\CoAPNonIP\CoAPNonIP.Android\obj\Debug\CoAPNonIP.Android.dll
+C:\Users\NN\Desktop\CoAPNonIP\CoAPNonIP\CoAPNonIP\CoAPNonIP.Android\obj\Debug\CoAPNonIP.Android.pdb
+C:\Users\NN\Desktop\CoAPNonIP\CoAPNonIP\CoAPNonIP\CoAPNonIP.Android\obj\Debug\android\bin\com.coapnonip.android.apk
+C:\Users\NN\Desktop\CoAPNonIP\CoAPNonIP\CoAPNonIP\CoAPNonIP.Android\obj\Debug\res\layout\main.xml
+C:\Users\NN\Desktop\CoAPNonIP\CoAPNonIP\CoAPNonIP\CoAPNonIP.Android\obj\Debug\res\values\strings.xml
+C:\Users\NN\Desktop\CoAPNonIP\CoAPNonIP\CoAPNonIP\CoAPNonIP.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\NN\Desktop\CoAPNonIP\CoAPNonIP\CoAPNonIP\CoAPNonIP.Android\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\NN\Desktop\CoAPNonIP\CoAPNonIP\CoAPNonIP\CoAPNonIP.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\NN\Desktop\CoAPNonIP\CoAPNonIP\CoAPNonIP\CoAPNonIP.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\NN\Desktop\CoAPNonIP\CoAPNonIP\CoAPNonIP\CoAPNonIP.Android\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\NN\Desktop\CoAPNonIP\CoAPNonIP\CoAPNonIP\CoAPNonIP.Android\obj\Debug\R.cs.flag
+C:\Users\NN\Desktop\CoAPNonIP\CoAPNonIP\CoAPNonIP\CoAPNonIP.Android\obj\Debug\uploadflags.txt
+C:\Users\NN\Desktop\新建文件夹 (4)\CoAPNonIP-master\CoAPNonIP\CoAPNonIP.Android\bin\Debug\CoAPNonIP.Android.dll
+C:\Users\NN\Desktop\新建文件夹 (4)\CoAPNonIP-master\CoAPNonIP\CoAPNonIP.Android\bin\Debug\CoAPNonIP.Android.pdb
+C:\Users\NN\Desktop\新建文件夹 (4)\CoAPNonIP-master\CoAPNonIP\CoAPNonIP.Android\bin\Debug\com.coapnonip.android.apk
+C:\Users\NN\Desktop\新建文件夹 (4)\CoAPNonIP-master\CoAPNonIP\CoAPNonIP.Android\bin\Debug\com.coapnonip.android-Signed.apk
+C:\Users\NN\Desktop\新建文件夹 (4)\CoAPNonIP-master\CoAPNonIP\CoAPNonIP.Android\obj\Debug\CoAPNonIP.Android.dll
+C:\Users\NN\Desktop\新建文件夹 (4)\CoAPNonIP-master\CoAPNonIP\CoAPNonIP.Android\obj\Debug\CoAPNonIP.Android.pdb
+C:\Users\NN\Desktop\新建文件夹 (4)\CoAPNonIP-master\CoAPNonIP\CoAPNonIP.Android\obj\Debug\android\bin\com.coapnonip.android.apk
+C:\Users\NN\Desktop\新建文件夹 (4)\CoAPNonIP-master\CoAPNonIP\CoAPNonIP.Android\obj\Debug\res\layout\main.xml
+C:\Users\NN\Desktop\新建文件夹 (4)\CoAPNonIP-master\CoAPNonIP\CoAPNonIP.Android\obj\Debug\res\values\strings.xml
+C:\Users\NN\Desktop\新建文件夹 (4)\CoAPNonIP-master\CoAPNonIP\CoAPNonIP.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\NN\Desktop\新建文件夹 (4)\CoAPNonIP-master\CoAPNonIP\CoAPNonIP.Android\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\NN\Desktop\新建文件夹 (4)\CoAPNonIP-master\CoAPNonIP\CoAPNonIP.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\NN\Desktop\新建文件夹 (4)\CoAPNonIP-master\CoAPNonIP\CoAPNonIP.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\NN\Desktop\新建文件夹 (4)\CoAPNonIP-master\CoAPNonIP\CoAPNonIP.Android\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\NN\Desktop\新建文件夹 (4)\CoAPNonIP-master\CoAPNonIP\CoAPNonIP.Android\obj\Debug\res\values\color.xml
+C:\Users\NN\Desktop\新建文件夹 (4)\CoAPNonIP-master\CoAPNonIP\CoAPNonIP.Android\obj\Debug\res\drawable-hdpi\bg_button_bluebutton.xml
+C:\Users\NN\Desktop\新建文件夹 (4)\CoAPNonIP-master\CoAPNonIP\CoAPNonIP.Android\obj\Debug\res\drawable-hdpi\bg_innerline_horizontal.xml
+C:\Users\NN\Desktop\新建文件夹 (4)\CoAPNonIP-master\CoAPNonIP\CoAPNonIP.Android\obj\Debug\res\drawable-hdpi\bg_innerline_vertical.xml
+C:\Users\NN\Desktop\新建文件夹 (4)\CoAPNonIP-master\CoAPNonIP\CoAPNonIP.Android\obj\Debug\res\drawable-hdpi\bg_relativelayout_grayround.xml
+C:\Users\NN\Desktop\新建文件夹 (4)\CoAPNonIP-master\CoAPNonIP\CoAPNonIP.Android\obj\Debug\res\drawable-hdpi\bglist_blue_grayrounded.xml
+C:\Users\NN\Desktop\新建文件夹 (4)\CoAPNonIP-master\CoAPNonIP\CoAPNonIP.Android\obj\Debug\res\drawable-hdpi\bglist_blue_grayrounded_pressed.xml
+C:\Users\NN\Desktop\新建文件夹 (4)\CoAPNonIP-master\CoAPNonIP\CoAPNonIP.Android\obj\Debug\res\values\np2pstyle.xml
+C:\Users\NN\Desktop\新建文件夹 (4)\CoAPNonIP-master\CoAPNonIP\CoAPNonIP.Android\obj\Debug\R.cs.flag
+C:\Users\NN\Desktop\新建文件夹 (4)\CoAPNonIP-master\CoAPNonIP\CoAPNonIP.Android\obj\Debug\uploadflags.txt
+C:\Users\NN\Desktop\新建文件夹 (4)\CoAPNonIP-master\CoAPNonIP\CoAPNonIP.Android\obj\Debug\res\layout\listcelllayout.xml
+E:\CoapNonIP\CoAPNonIP_Cluster\CoAPNonIP.Android\bin\Debug\CoAPNonIP.Android.dll
+E:\CoapNonIP\CoAPNonIP_Cluster\CoAPNonIP.Android\bin\Debug\CoAPNonIP.Android.pdb
+E:\CoapNonIP\CoAPNonIP_Cluster\CoAPNonIP.Android\bin\Debug\com.coapnonip.android.apk
+E:\CoapNonIP\CoAPNonIP_Cluster\CoAPNonIP.Android\bin\Debug\com.coapnonip.android-Signed.apk
+E:\CoapNonIP\CoAPNonIP_Cluster\CoAPNonIP.Android\obj\Debug\CoAPNonIP.Android.dll
+E:\CoapNonIP\CoAPNonIP_Cluster\CoAPNonIP.Android\obj\Debug\CoAPNonIP.Android.pdb
+E:\CoapNonIP\CoAPNonIP_Cluster\CoAPNonIP.Android\obj\Debug\android\bin\com.coapnonip.android.apk
+E:\CoapNonIP\CoAPNonIP_Cluster\CoAPNonIP.Android\obj\Debug\res\layout\main.xml
+E:\CoapNonIP\CoAPNonIP_Cluster\CoAPNonIP.Android\obj\Debug\res\values\strings.xml
+E:\CoapNonIP\CoAPNonIP_Cluster\CoAPNonIP.Android\obj\Debug\res\drawable-hdpi\icon.png
+E:\CoapNonIP\CoAPNonIP_Cluster\CoAPNonIP.Android\obj\Debug\res\drawable-mdpi\icon.png
+E:\CoapNonIP\CoAPNonIP_Cluster\CoAPNonIP.Android\obj\Debug\res\drawable-xhdpi\icon.png
+E:\CoapNonIP\CoAPNonIP_Cluster\CoAPNonIP.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+E:\CoapNonIP\CoAPNonIP_Cluster\CoAPNonIP.Android\obj\Debug\res\drawable-xxxhdpi\icon.png
+E:\CoapNonIP\CoAPNonIP_Cluster\CoAPNonIP.Android\obj\Debug\res\values\color.xml
+E:\CoapNonIP\CoAPNonIP_Cluster\CoAPNonIP.Android\obj\Debug\res\drawable-hdpi\bg_button_bluebutton.xml
+E:\CoapNonIP\CoAPNonIP_Cluster\CoAPNonIP.Android\obj\Debug\res\drawable-hdpi\bg_innerline_horizontal.xml
+E:\CoapNonIP\CoAPNonIP_Cluster\CoAPNonIP.Android\obj\Debug\res\drawable-hdpi\bg_innerline_vertical.xml
+E:\CoapNonIP\CoAPNonIP_Cluster\CoAPNonIP.Android\obj\Debug\res\drawable-hdpi\bg_relativelayout_grayround.xml
+E:\CoapNonIP\CoAPNonIP_Cluster\CoAPNonIP.Android\obj\Debug\res\drawable-hdpi\bglist_blue_grayrounded.xml
+E:\CoapNonIP\CoAPNonIP_Cluster\CoAPNonIP.Android\obj\Debug\res\drawable-hdpi\bglist_blue_grayrounded_pressed.xml
+E:\CoapNonIP\CoAPNonIP_Cluster\CoAPNonIP.Android\obj\Debug\res\values\np2pstyle.xml
+E:\CoapNonIP\CoAPNonIP_Cluster\CoAPNonIP.Android\obj\Debug\res\layout\listcelllayout.xml
+E:\CoapNonIP\CoAPNonIP_Cluster\CoAPNonIP.Android\obj\Debug\res\values\attrs.xml
+E:\CoapNonIP\CoAPNonIP_Cluster\CoAPNonIP.Android\obj\Debug\res\layout\samplescratcher_main.xml
+E:\CoapNonIP\CoAPNonIP_Cluster\CoAPNonIP.Android\obj\Debug\res\layout\graffiti_main.xml
+E:\CoapNonIP\CoAPNonIP_Cluster\CoAPNonIP.Android\obj\Debug\res\layout\clustertest_main.xml
+E:\CoapNonIP\CoAPNonIP_Cluster\CoAPNonIP.Android\obj\Debug\R.cs.flag
+E:\CoapNonIP\CoAPNonIP_Cluster\CoAPNonIP.Android\obj\Debug\uploadflags.txt
+E:\CoapNonIP\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\CoAPNonIP.Android.dll
+E:\CoapNonIP\CoAPNonIP_RoundTrip\CoAPNonIP.Android\bin\Debug\CoAPNonIP.Android.dll
+E:\CoapNonIP\CoAPNonIP_RoundTrip\CoAPNonIP.Android\bin\Debug\CoAPNonIP.Android.pdb
+E:\CoapNonIP\CoAPNonIP_RoundTrip\CoAPNonIP.Android\bin\Debug\com.coapnonip.android.apk
+E:\CoapNonIP\CoAPNonIP_RoundTrip\CoAPNonIP.Android\bin\Debug\com.coapnonip.android-Signed.apk
+E:\CoapNonIP\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\CoAPNonIP.Android.pdb
+E:\CoapNonIP\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\android\bin\com.coapnonip.android.apk
+E:\CoapNonIP\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\res\layout\main.xml
+E:\CoapNonIP\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\res\values\strings.xml
+E:\CoapNonIP\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\res\drawable-hdpi\icon.png
+E:\CoapNonIP\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\res\drawable-mdpi\icon.png
+E:\CoapNonIP\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\res\drawable-xhdpi\icon.png
+E:\CoapNonIP\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+E:\CoapNonIP\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\res\drawable-xxxhdpi\icon.png
+E:\CoapNonIP\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\res\values\color.xml
+E:\CoapNonIP\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\res\drawable-hdpi\bg_button_bluebutton.xml
+E:\CoapNonIP\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\res\drawable-hdpi\bg_innerline_horizontal.xml
+E:\CoapNonIP\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\res\drawable-hdpi\bg_innerline_vertical.xml
+E:\CoapNonIP\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\res\drawable-hdpi\bg_relativelayout_grayround.xml
+E:\CoapNonIP\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\res\drawable-hdpi\bglist_blue_grayrounded.xml
+E:\CoapNonIP\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\res\drawable-hdpi\bglist_blue_grayrounded_pressed.xml
+E:\CoapNonIP\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\res\values\np2pstyle.xml
+E:\CoapNonIP\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\res\layout\listcelllayout.xml
+E:\CoapNonIP\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\res\values\attrs.xml
+E:\CoapNonIP\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\res\layout\samplescratcher_main.xml
+E:\CoapNonIP\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\res\layout\graffiti_main.xml
+E:\CoapNonIP\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\res\layout\clustertest_main.xml
+E:\CoapNonIP\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\R.cs.flag
+E:\CoapNonIP\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\uploadflags.txt
+D:\WorkPlace\CoAPNonIP_RoundTrip\CoAPNonIP_RoundTrip\CoAPNonIP.Android\bin\Debug\CoAPNonIP.Android.dll
+D:\WorkPlace\CoAPNonIP_RoundTrip\CoAPNonIP_RoundTrip\CoAPNonIP.Android\bin\Debug\CoAPNonIP.Android.pdb
+D:\WorkPlace\CoAPNonIP_RoundTrip\CoAPNonIP_RoundTrip\CoAPNonIP.Android\bin\Debug\com.coapnonip.android.apk
+D:\WorkPlace\CoAPNonIP_RoundTrip\CoAPNonIP_RoundTrip\CoAPNonIP.Android\bin\Debug\com.coapnonip.android-Signed.apk
+D:\WorkPlace\CoAPNonIP_RoundTrip\CoAPNonIP_RoundTrip\CoAPNonIP.Android\bin\Debug\Newtonsoft.Json.dll
+D:\WorkPlace\CoAPNonIP_RoundTrip\CoAPNonIP_RoundTrip\CoAPNonIP.Android\bin\Debug\Newtonsoft.Json.xml
+D:\WorkPlace\CoAPNonIP_RoundTrip\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\CoAPNonIP.Android.dll
+D:\WorkPlace\CoAPNonIP_RoundTrip\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\CoAPNonIP.Android.pdb
+D:\WorkPlace\CoAPNonIP_RoundTrip\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\android\bin\com.coapnonip.android.apk
+D:\WorkPlace\CoAPNonIP_RoundTrip\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\res\layout\main.xml
+D:\WorkPlace\CoAPNonIP_RoundTrip\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\res\values\strings.xml
+D:\WorkPlace\CoAPNonIP_RoundTrip\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\res\drawable-hdpi\icon.png
+D:\WorkPlace\CoAPNonIP_RoundTrip\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\res\drawable-mdpi\icon.png
+D:\WorkPlace\CoAPNonIP_RoundTrip\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\res\drawable-xhdpi\icon.png
+D:\WorkPlace\CoAPNonIP_RoundTrip\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+D:\WorkPlace\CoAPNonIP_RoundTrip\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\res\drawable-xxxhdpi\icon.png
+D:\WorkPlace\CoAPNonIP_RoundTrip\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\res\values\color.xml
+D:\WorkPlace\CoAPNonIP_RoundTrip\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\res\drawable-hdpi\bg_button_bluebutton.xml
+D:\WorkPlace\CoAPNonIP_RoundTrip\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\res\drawable-hdpi\bg_innerline_horizontal.xml
+D:\WorkPlace\CoAPNonIP_RoundTrip\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\res\drawable-hdpi\bg_innerline_vertical.xml
+D:\WorkPlace\CoAPNonIP_RoundTrip\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\res\drawable-hdpi\bg_relativelayout_grayround.xml
+D:\WorkPlace\CoAPNonIP_RoundTrip\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\res\drawable-hdpi\bglist_blue_grayrounded.xml
+D:\WorkPlace\CoAPNonIP_RoundTrip\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\res\drawable-hdpi\bglist_blue_grayrounded_pressed.xml
+D:\WorkPlace\CoAPNonIP_RoundTrip\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\res\values\np2pstyle.xml
+D:\WorkPlace\CoAPNonIP_RoundTrip\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\res\layout\listcelllayout.xml
+D:\WorkPlace\CoAPNonIP_RoundTrip\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\res\values\attrs.xml
+D:\WorkPlace\CoAPNonIP_RoundTrip\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\res\layout\samplescratcher_main.xml
+D:\WorkPlace\CoAPNonIP_RoundTrip\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\res\layout\graffiti_main.xml
+D:\WorkPlace\CoAPNonIP_RoundTrip\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\res\layout\clustertest_main.xml
+D:\WorkPlace\CoAPNonIP_RoundTrip\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\res\values\distancearray.xml
+D:\WorkPlace\CoAPNonIP_RoundTrip\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\res\drawable-hdpi\menu_dropdown_panel.9.png
+D:\WorkPlace\CoAPNonIP_RoundTrip\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\R.cs.flag
+D:\WorkPlace\CoAPNonIP_RoundTrip\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\uploadflags.txt
+D:\WorkPlace\CoAPNonIP_RoundTrip\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\CoAPNonIP.Android.csprojResolveAssemblyReference.cache
+D:\WorkPlace\CoAPNonIP_RoundTrip\CoAPNonIP_RoundTrip\CoAPNonIP.Android\obj\Debug\CoAPNonIP.Android.dll.mdb
+D:\WorkPlace\CoAPNonIP_RoundTrip\CoAPNonIP_RoundTrip\CoAPNonIP.Android\bin\Debug\CoAPNonIP.Android.dll.mdb

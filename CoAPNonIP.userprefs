@@ -1,0 +1,29 @@
+﻿<Properties StartupItem="CoAPNonIP.Android\CoAPNonIP.Android.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="Android.AVD_for_Android_Wear_Round_by_Google" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CoAPNonIP.Core\LibCoAPNonIP\Network\Android\Service\NP2PServerBLEService.cs">
+    <Files>
+      <File FileName="CoAPNonIP.Core\LibCoAPNonIP\Network\Android\Service\NP2PServerBLEService.cs" Line="239" Column="41" />
+      <File FileName="CoAPNonIP.Core\LibCoAPNonIP\Network\Android\CallBack\NP2PSBLECallBack.cs" Line="1" Column="1" />
+      <File FileName="CoAPNonIP.Core\LibCoAPNonIP\Network\Android\CallBack\NP2PCBLECallBack.cs" Line="1" Column="1" />
+      <File FileName="CoAPNonIP.Core\LibCoAPNonIP\Network\Android\Service\NP2PClientBLEService.cs" Line="1" Column="1" />
+      <File FileName="CoAPNonIP.Core\LibCoAPNonIP\Network\AbstractNetwork.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/chenn/Documents/CoapNonIP_Lenovo/CoAPNonIP-master/CoAPNonIP/CoAPNonIP.Android/MainActivity.cs" line="148" column="1" />
+      <Breakpoint file="/Users/chenn/Documents/CoapNonIP_Lenovo/CoAPNonIP-master/CoAPNonIP/CoAPNonIP.Android/MainActivity.cs" line="157" column="1" />
+      <Breakpoint file="/Users/chenn/Documents/CoapNonIP_Lenovo/CoAPNonIP-master/CoAPNonIP/CoAPNonIP.Core/LibCoAPNonIP/Network/Android/PeersNetwork.cs" line="415" column="1" />
+      <Breakpoint file="/Users/chenn/Documents/CoapNonIP_Lenovo/CoAPNonIP-master/CoAPNonIP/CoAPNonIP.Core/LibCoAPNonIP/Network/Android/PeersNetwork.cs" line="414" column="1" />
+      <Breakpoint file="/Users/chenn/Documents/CoapNonIP_Lenovo/CoAPNonIP-master/CoAPNonIP/CoAPNonIP.Android/MainActivity.cs" line="146" column="1" />
+      <Breakpoint file="/Users/chenn/Documents/CoapNonIP_Lenovo/CoAPNonIP-master/CoAPNonIP_Drawer/CoAPNonIP.Core/LibCoAPNonIP/Network/Android/Service/NP2PClientBLEService.cs" line="283" column="1" />
+      <Breakpoint file="/Users/chenn/Documents/CoapNonIP_Lenovo/CoAPNonIP-master/CoAPNonIP_Cluster/CoAPNonIP.Core/LibCoAPNonIP/Network/Android/Cluster/NP2PClusterInfo.cs" line="299" column="1" />
+      <Breakpoint file="/Users/chenn/Documents/CoapNonIP_Lenovo/CoAPNonIP-master/CoAPNonIP_Cluster/CoAPNonIP.Core/LibCoAPNonIP/Core/App.cs" line="118" column="1" />
+      <Breakpoint file="/Users/chenn/Documents/CoapNonIP_Lenovo/CoAPNonIP-master/CoAPNonIP_Cluster/CoAPNonIP.Core/LibCoAPNonIP/Core/App.cs" line="124" column="1" />
+      <Breakpoint file="D:\WorkPlace\CoAPNonIP_RoundTrip\CoAPNonIP_RoundTrip\CoAPNonIP.Core\LibCoAPNonIP\Network\Android\Cluster\NP2PClusterService.cs" line="178" column="1" />
+      <Breakpoint file="D:\WorkPlace\CoAPNonIP_RoundTrip\CoAPNonIP_RoundTrip\CoAPNonIP.Core\LibCoAPNonIP\Network\Android\Cluster\NP2PClusterService.cs" line="180" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CoAPNonIP.Android AndroidDesignerPreferredDevice="Nexus 4" AndroidDeviceId-Release="HT4CCJT01802" />
+</Properties>

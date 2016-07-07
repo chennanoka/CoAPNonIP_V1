@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>{5EAD8588-007B-479E-8F06-A0FD53BDD2DB}</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>CoAPNonIP.Core</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="$(MSBuildThisFileDirectory)CoapNonIP\" />
+    <Folder Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\" />
+    <Folder Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\Core\" />
+    <Folder Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\Network\" />
+    <Folder Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\Network\iOS\" />
+    <Folder Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\Network\Android\" />
+    <Folder Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\Network\Android\Cluster\" />
+    <Folder Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\Network\Android\ClusterAlternative\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)CoapNonIP\Test.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\CoAP\CoAPRequest.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\CoAP\CoAPResponse.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\CoAP\Fundaments\AbstractCoAPMsg.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\CoAP\Fundaments\CoAPBlockOption.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\CoAP\Fundaments\CoAPContentFormatOption.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\CoAP\Fundaments\CoAPHeaderOption.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\CoAP\Fundaments\CoAPHeaderOptions.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\CoAP\Fundaments\CoAPMsgCode.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\CoAP\Fundaments\CoAPMsgID.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\CoAP\Fundaments\CoAPMsgType.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\CoAP\Fundaments\CoAPPayload.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\CoAP\Fundaments\CoAPToken.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\CoAP\Fundaments\CoAPVersion.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\CoAP\Fundaments\InterfaceParsable.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\Exceptions\CoAPFormatException.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\Exceptions\UndeliveredException.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\Exceptions\UnsupportedException.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\Utils\AbstractByteUtils.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\Utils\AbstractNetworkUtils.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\Utils\AbstractNumberUtils.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\Utils\AbstractStringUtils.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\Utils\AbstractURIUtils.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\Network\AbstractNetwork.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\Network\Device.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\Utils\AbstractTimeUtils.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\Exceptions\NetworkException.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\Core\App.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\Core\Resource.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\Network\Android\PeersNetwork.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\Network\Android\Service\NP2PClientBLEService.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\Network\Android\Service\NP2PServerBLEService.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\Network\Android\Thread\NP2PCScanedNewServerThread.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\Network\Android\Thread\NP2PCSendThread.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\Network\Android\Thread\NP2PSSendThread.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\Network\Android\Util\ByteUtil.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\Network\Android\Util\StringUtil.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\Network\Android\Test\Np2pRecord.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\Network\Android\Objects\OnAddList.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\Network\Android\Objects\UserIDAppID.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\Network\Android\NP2PPacket\NP2PMessage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\Network\Android\NP2PPacket\NP2PReceivePacket.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\Network\Android\NP2PPacket\NP2PSendPacket.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\Network\Android\NP2PPacket\NP2PSendPacketListBuilder.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\Network\Android\Global\NP2PGlobal.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\Network\Android\CallBack\NP2PCBLECallBack.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\Network\Android\CallBack\NP2PSBLECallBack.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\Network\Android\CallBack\NP2PSearchPeersCallBack.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="$(MSBuildThisFileDirectory)LibCoAPNonIP\Network\iOS\PeersNetwork.cs" />
+  </ItemGroup>
+</Project>

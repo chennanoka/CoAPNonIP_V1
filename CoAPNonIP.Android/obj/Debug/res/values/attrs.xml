@@ -1,0 +1,1 @@
+<resources><declare-styleable name="CanavsView"><attr name="android:text" /><attr name="android:textColor" /><attr name="extraInformation" format="string" /></declare-styleable></resources>
